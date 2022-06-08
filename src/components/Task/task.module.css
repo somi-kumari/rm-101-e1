@@ -1,3 +1,18 @@
 .task {
-  /* Sample  */
+  display: flex;
+  align-items: center;
+  /* justify-content: ; */
+}
+
+.checked {
+  text-decoration: line-through;
+}
+
+input {
+  width: fit-content;
+  text-align: left;
+}
+
+.notchecked {
+  text-decoration: none;
 }
